@@ -19,4 +19,9 @@ This data sets contains information about all space missions from 1957 to August
 - too many information in the location column
 - Empyty rows in the price column
 ## Conclusions
-
+- There was approximately 90% success from all the space missions launched 
+- Most of the missions were launched in Kazakhstan
+- Most of the space missions were launched in the year 2021 and in the month December.
+- Most of the space missions were launched by the RVSN USSR.
+- Approximately 78% of the rockets used were retired that is they are inactive.
+- The Cosmos-3M(11K65M) rocket was mostly used for the space missions
